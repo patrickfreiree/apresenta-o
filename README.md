@@ -5,7 +5,7 @@
 <p align="center">- Estudando: HTML, CSS, Git, JavaScript e entre outras. :books:</p>
  
 <p align="center">
- <a><img src="https://github-readme-stats.vercel.app/api?username=patrickfreiree&show_icons=true&theme=dark" /></a>
+ <a><img src="https://github-readme-stats.vercel.app/api?username=patrickfreiree&show_icons=true&theme=dark&show_icons=true" /></a>
   </p>
   
 <p align="center">
