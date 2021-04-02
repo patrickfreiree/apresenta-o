@@ -2,9 +2,9 @@
 
  <p align="center">Meu nome é Patrick Freire. Graduado em História e estudante em Desenvolvimento de Sistemas. <img src="https://camo.githubusercontent.com/40dff491d4e8123af55298ef908faedb66c463e5/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="60"></p></p>
 
-<p align="center"> align="center">- Estudando: HTML, CSS, Git, JavaScript e entre outras. :books:</p>
+<p align="center">- Estudando: HTML, CSS, Git, JavaScript e entre outras. :books:</p>
  
-
+<p align="center">
  <a><img src="https://github-readme-stats.vercel.app/api?username=patrickfreiree&show_icons=true&theme=graywhite" /></a>
   </p>
   
