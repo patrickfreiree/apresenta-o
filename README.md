@@ -5,7 +5,7 @@
 <p align="center">- Estudando: HTML, CSS, Git, JavaScript e entre outras. :books:</p>
  
 <p align="center">
- <a><img src="https://github-readme-stats.vercel.app/api?username=patrickfreiree&show_icons=true&theme=graywhite" /></a>
+ <a><img src="https://github-readme-stats.vercel.app/api?username=patrickfreiree&show_icons=true&theme=dark" /></a>
   </p>
   
 <p align="center">
@@ -20,3 +20,4 @@
   <a target="_blank" href="https://open.spotify.com/user/patrickfreire?si=Kfm3kWZSTf6fk2n_C5-h4Q" target="_blank"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" /></a> 
   </p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=patrickfreiree" alt="patrickfreiree" /></p>
+
