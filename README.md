@@ -1,8 +1,8 @@
 <h1 align="center">  :man_technologist: OLÁ MUNDO! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26px"> </h1>
 <p align="center">Me chamo Patrick Freire, graduado em História e estudante de Desenvolvimento de Sistemas. <img src="https://camo.githubusercontent.com/40dff491d4e8123af55298ef908faedb66c463e5/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="60"></p></p>
 
-<p align="center">- Estudando: Banco de dados, Java, Git, JavaScript.:books:</p>
-<p align = "center"> Foco do mês: Orientação a objeto .</p>
+<p align="center">- Estudando: H2 Database e Java </p>
+<p align = "center"> Foco do mês: API Rest em spring linguagem JAVA .</p>
  
 <p align="center">
  <a><img src="https://github-readme-stats.vercel.app/api?username=patrickfreiree&show_icons=true&theme=dark&show_icons=true" /></a>
